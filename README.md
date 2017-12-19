@@ -1,1 +1,1 @@
-# ims-jee-springboot
+# ims-java-jee-springboot
